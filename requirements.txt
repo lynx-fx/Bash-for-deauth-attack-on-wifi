@@ -1,0 +1,3 @@
+Required system tools (installable via apt on Debian/Ubuntu)
+aircrack-ng
+network-manager
